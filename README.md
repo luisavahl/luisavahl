@@ -1,4 +1,4 @@
-# Hi there Luísa
+# Luísa
 ## Estudante de Farmácia da UFSC (Universidade Federal de Santa Catarina)
 ### Gosto de análise de dados 
 Estou aprendendo R e Python para análise de dados!!!
